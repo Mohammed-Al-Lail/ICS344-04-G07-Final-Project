@@ -15,7 +15,7 @@
       <td>Phase 1</td>
     </tr>
     <tr>
-      <td>Ali almatar</td>
+      <td>Ali Almatar</td>
       <td>202158190</td>
       <td>Phase 2</td>
     </tr>
